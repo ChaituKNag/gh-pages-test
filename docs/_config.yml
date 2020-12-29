@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+title: Chaitu
+description: Testing gh-pages themes.
+logo: ./smile.jpg
+show_downloads: "false"
